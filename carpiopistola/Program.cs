@@ -8,5 +8,8 @@ namespace carpiopistola
         {
             Console.WriteLine("Hello World!");
         }
+
+        // TODO: juanito deja las monas chinas
+         
     }
 }
