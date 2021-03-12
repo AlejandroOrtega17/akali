@@ -7,9 +7,11 @@ namespace carpiopistola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("heeeeey amigazoooooo");
         }
 
         // TODO: juanito deja las monas chinas
-         
+
     }
 }
