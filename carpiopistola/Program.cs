@@ -9,6 +9,10 @@ namespace carpiopistola
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("heeeeey amigazoooooo");
+            
+            Console.WriteLine("a");
+            
+            Console.WriteLine("quiero repushear");
         }
 
         // TODO: juanito deja las monas chinas
